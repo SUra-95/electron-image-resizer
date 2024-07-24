@@ -1,0 +1,17 @@
+{
+  "name": "image-resizer-app",
+  "ProductName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "Image Resizer with specific dimensions",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Suranjan De Silva",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^30.0.2",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
